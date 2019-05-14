@@ -1,4 +1,4 @@
-# tictactoe
+# Tic-Tac-Toe
 <h2>Technologies used:</h2>
 <ul>
   <li>HTML</li>
