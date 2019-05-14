@@ -10,4 +10,4 @@
   <p>Used DOM manipulation to get and set game states
       Set up event listeners to get players moves
   </p>
-Hosted site:
+
