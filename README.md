@@ -2,7 +2,7 @@
 <h2>Technologies used:</h2>
 <ul>
   <li>HTML</li>
-  <li>CSS/ Bootstrap v3</li>
+  <li>CSS</li>
   <li>JavaScript/ jQuery</li>
 </ul>
 <br>
